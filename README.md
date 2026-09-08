@@ -1,15 +1,17 @@
 # Leonardo Andreas
 
-Software Developer.
+Full-stack Software Engineer with ~10 years of experience, transitioning into Software Architecture — recently completed a postgraduate degree in Software Architecture (FIAP).
 
-I build backend services and full-stack apps — from REST APIs in Java/Spring Boot and Node/TypeScript to data-driven frontends in Next.js/React. Interested in clean domain modeling, testing discipline, and pipelines that catch problems before production does.
+I've spent most of my career building and evolving backend services, integrations and full-stack applications end to end. I'm now moving toward system design and architecture: evaluating trade-offs, defining integration patterns, and turning requirements into scalable, well-documented designs.
 
 ## Tech I work with
 
-**Backend:** Java 21, Spring Boot, Node.js, Fastify, TypeScript
+**Backend:** Java, Spring Boot, Node.js, Fastify, TypeScript
+**Frontend:** React, Next.js, Angular, Tailwind CSS
+**Integration:** Apache Camel
 **Data:** PostgreSQL, MySQL, Prisma, QueryDSL
-**Frontend:** React, Next.js, Tailwind CSS
-**Infra/CI:** Docker, Kubernetes, GitHub Actions
+**Cloud/Infra:** AWS, Docker, Kubernetes, GitHub Actions
+**Architecture:** system design, integration patterns, architecture decision records, diagramming
 
 ## Featured projects
 
