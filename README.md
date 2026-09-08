@@ -1,8 +1,8 @@
 # Leonardo Andreas
 
-Full-stack Software Engineer with ~10 years of experience, with a growing focus on Software Architecture — backed by a postgraduate degree in Software Architecture (FIAP).
+Full-stack Software Engineer with ~10 years of experience, with a growing focus on Software Architecture, backed by a postgraduate degree in Software Architecture (FIAP).
 
-Most of my career has been hands-on: building and evolving backend services, integrations and full-stack applications end to end. That foundation now extends into architecture-facing work — system design, integration patterns, trade-off analysis — an area I'm actively growing in, both through the postgrad and on the job.
+Most of my career has been hands-on: building and evolving backend services, integrations and full-stack applications end to end. That foundation now extends into architecture-facing work, including system design, integration patterns and trade-off analysis, an area I'm actively growing in, both through the postgrad and on the job.
 
 ## Tech I work with
 
