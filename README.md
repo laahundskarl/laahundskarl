@@ -2,7 +2,7 @@
 
 Full-stack Software Engineer with ~10 years of experience, focused on software architecture, system design and building scalable backend systems. Postgraduate degree in Software Architecture (FIAP).
 
-Most of my career has been hands-on, building and evolving backend services, integrations and full-stack applications in complex environments. Over time, my day-to-day has expanded beyond implementation into system design, architectural decisions and integration patterns. I also informally lead demand refinement and technical direction within my squad.
+Most of my career has been hands-on, building and evolving backend services, integrations and full-stack applications in complex environments. Over time, my day-to-day has expanded beyond implementation into system design, architectural decisions and integration patterns, along with informally leading backlog refinement and technical direction within my squad.
 
 ## Engineering
 
