@@ -4,7 +4,7 @@ Senior Software Engineer with ~10 years of experience, focused on software archi
 
 Most of my career has been hands-on, building and evolving backend services, integrations and full-stack applications in complex environments. Over time, my day-to-day has expanded beyond implementation into system design, architectural decisions and integration patterns, as well as leading technical discussions, backlog refinement and technical direction within my squad.
 
-## Engineering
+## Technical Expertise
 
 - **Backend:** Java, Spring Boot, Node.js, Fastify, TypeScript
 - **Frontend:** React, Next.js, Angular, Tailwind CSS
